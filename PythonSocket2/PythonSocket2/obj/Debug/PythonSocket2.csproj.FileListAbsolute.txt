@@ -1,0 +1,6 @@
+c:\users\dterryable\documents\visual studio 2013\Projects\PythonSocket2\PythonSocket2\bin\Debug\PythonSocket2.exe.config
+c:\users\dterryable\documents\visual studio 2013\Projects\PythonSocket2\PythonSocket2\obj\Debug\PythonSocket2.csprojResolveAssemblyReference.cache
+c:\users\dterryable\documents\visual studio 2013\Projects\PythonSocket2\PythonSocket2\bin\Debug\PythonSocket2.exe
+c:\users\dterryable\documents\visual studio 2013\Projects\PythonSocket2\PythonSocket2\bin\Debug\PythonSocket2.pdb
+c:\users\dterryable\documents\visual studio 2013\Projects\PythonSocket2\PythonSocket2\obj\Debug\PythonSocket2.exe
+c:\users\dterryable\documents\visual studio 2013\Projects\PythonSocket2\PythonSocket2\obj\Debug\PythonSocket2.pdb
